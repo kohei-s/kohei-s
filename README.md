@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="left">I'm kohei-s, a junior data analyst and researcher</h3>
+<h3 align="left">I'm kohei-s, a junior data analyst and human science researcher</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
