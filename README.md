@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//kohei-suzuki-615598208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/kohei-s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//kohei-suzuki-615598208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/kohei-s" height="20" width="20" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -57,5 +57,12 @@
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
+</p>
+<p>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohei-s&layout=donut&hide=jupyter%20notebook,makefile,dockerfile)](https://github.com/kohei-s)
+  
+  [![github stats](https://github-readme-stats.vercel.app/api?username=kohei-s&rank_icon=github)](https://github.com/kohei-s)
+   
 </p>
 
