@@ -59,6 +59,8 @@
 <p>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohei-s&layout=compact&hide=jupyter%20notebook,makefile,dockerfile&langs_coun=20)](https://github.com/kohei-s)   [![github stats](https://github-readme-stats.vercel.app/api?username=kohei-s&rank_icon=github)](https://github.com/kohei-s)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
    
 </p>
 
