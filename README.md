@@ -58,7 +58,7 @@
 </p>
 <p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohei-s&layout=donut&hide=jupyter%20notebook,makefile,dockerfile)](https://github.com/kohei-s)   [![github stats](https://github-readme-stats.vercel.app/api?username=kohei-s&rank_icon=github)](https://github.com/kohei-s)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohei-s&layout=compact&hide=jupyter%20notebook,makefile,dockerfile&langs_coun=20)](https://github.com/kohei-s)   [![github stats](https://github-readme-stats.vercel.app/api?username=kohei-s&rank_icon=github)](https://github.com/kohei-s)
    
 </p>
 
