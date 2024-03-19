@@ -1,18 +1,13 @@
 ### Hi there 👋
 <p>I'm Kohei, an aspiring Software Developer with with fundamental knowledge in Full-Stack webdevelopment and Data Science & Machine Learning and a background in academic research. Excited about the evolving tech industry and eager to pursue a career in the digital world.</p>
 
-<p>In my latest project as an engineering fellow for the german government/public sector, I worked together with a team of other tech enthusiasts on digitizing services for citizens. For that, I developed an innovative long-term vision  as a solution for a citizen platform where I used the design-thinking method as an approach plus my analytical and problem-solving skills.</p>
+<p>In my latest project as an engineering fellow for the german public sector, I worked together with a team of other tech enthusiasts on digitizing services for citizens. For that, I developed an innovative long-term vision  as a solution for a citizen platform where I used my analytical and problem-solving skills.</p>
 
 <p>Due to my background as a researcher that published scientific papers and held lectures for students, I was able to establish a well-structured way of working as well as efficient communication and presentation skills.</p>
 
 <p>I am now ready to bring my personal, research and technical skills to the table to create exceptional user-friendly experiences together.</p>
-<p>Get in touch with me via email(koheisuzuki@me.com), happy to be hearing from you soon!</p>
+<p>Get in touch with me via <a href="mailto:koheisuzuki@me.com?subject=ContactViaGithub&body=Message"> email</a>, happy to be hearing from you soon!</p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//kohei-suzuki-615598208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/kohei-s" height="20" width="20" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
