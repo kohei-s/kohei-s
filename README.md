@@ -1,5 +1,5 @@
-### Hi there 👋
-<p>I'm Kohei, an aspiring Software Developer with with fundamental knowledge in Full-Stack webdevelopment and Data Science & Machine Learning and a background in academic research. Excited about the evolving tech industry and eager to pursue a career in the digital world.</p>
+<h2>Hi there 👋</h2>
+<p>I'm <b>Kohei Suzuki</b>, an aspiring Software Developer with with fundamental knowledge in <b>Full-Stack Web Development</b> and <b>Data Science & Machine Learning</b> and a background in academic research. Excited about the evolving tech industry and eager to pursue a career in the digital world.</p>
 
 <p>In my latest project as an engineering fellow for the german public sector, I worked together with a team of other tech enthusiasts on digitizing services for citizens. For that, I developed an innovative long-term vision  as a solution for a citizen platform where I used my analytical and problem-solving skills.</p>
 
@@ -8,7 +8,9 @@
 <p>I am now ready to bring my personal, research and technical skills to the table to create exceptional user-friendly experiences together.</p>
 <p>Get in touch with me via <a href="mailto:koheisuzuki@me.com?subject=ContactViaGithub&body=Message"> email</a>, happy to be hearing from you soon!</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2>My Work</h2>
+<h3>KoToKo: Japanese concentration game app</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
   </a>
@@ -62,6 +64,7 @@
   </a>
 </p>
 <p>
+<h2>GitHub Statistics</h2>
 
   [![github stats](https://github-readme-stats.vercel.app/api?username=kohei-s&rank_icon=github)](https://github.com/kohei-s)
   
