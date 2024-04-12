@@ -6,7 +6,8 @@
 <p>Due to my background as a researcher that published scientific papers and held lectures for students, I was able to establish a well-structured way of working as well as efficient communication and presentation skills.</p>
 
 <p>I am now ready to bring my personal, research and technical skills to the table to create exceptional user-friendly experiences together.</p>
-<p>Get in touch with me via <a href="mailto:koheisuzuki@me.com?subject=ContactViaGithub&body=Message"> email</a>, happy to be hearing from you soon!</p>
+<p>Check out my <a href="https://kohei-s.notion.site/Portfolio-bd4cd3e883054f01a9ee3ee8b372d728">portfolio</a> 
+  and get in touch with me via <a href="mailto:koheisuzuki@me.com?subject=ContactViaGithub&body=Message"> email</a>, happy to be hearing from you soon!</p>
 
 <h2>My Work</h2>
 <h3>KoToKo: Japanese concentration game app</h3>
