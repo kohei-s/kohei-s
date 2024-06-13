@@ -10,7 +10,9 @@
   and get in touch with me via <a href="mailto:koheisuzuki@me.com?subject=ContactViaGithub&body=Message"> email</a>, happy to be hearing from you soon!</p>
 
 <h2>My Work</h2>
-<h3>KoToKo: Japanese concentration game app</h3>
+<h3><a href="https://github.com/kohei-s/kotoko-concentration-app"> KoToKo: Japanese concentration game app</a></h3>
+<img src="https://github.com/kohei-s/kotoko-concentration-app/assets/82062401/b4132c77-a729-490f-ac6c-150da692cf4d" alt="kotoko"/>
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
