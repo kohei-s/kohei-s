@@ -11,7 +11,7 @@
 
 <h2>My Work</h2>
 <h3><a href="https://github.com/kohei-s/kotoko-concentration-app"> KoToKo: Japanese concentration game app</a></h3>
-<p>New concentration game mobile app aims to support learning Japanese for so called <a href="https://en.wikipedia.org/wiki/Third_culture_kid">third culture kids</a> growing up speaking a different language in kindergarten or school (<a href="https://github.com/kohei-s/kotoko-concentration-app/wiki/References-&-Internet-Sourcese">👉 references & sources in research </a>). The name of the app <b>KoToKO (言と言)</b> is a neologism that could mean <b>Word & Word</b>.</p>
+<p>New concentration game mobile app aims to support learning Japanese for so called <a href="https://en.wikipedia.org/wiki/Third_culture_kid">third culture kids</a> growing up speaking a different language in kindergarten or school (<a href="https://github.com/kohei-s/kotoko-concentration-app/wiki/References-&-Internet-Sources">👉 references & sources in research </a>). The name of the app <b>KoToKO (言と言)</b> is a neologism that could mean <b>Word & Word</b>.</p>
 <img src="https://github.com/kohei-s/kotoko-concentration-app/assets/82062401/b4132c77-a729-490f-ac6c-150da692cf4d" alt="kotoko"/>
 
 <h2 align="left">Languages and Tools:</h2>
